@@ -10,4 +10,6 @@
 
 @implementation CCAnotherTest
 
+//And another comment
+
 @end
