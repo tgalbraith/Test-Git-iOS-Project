@@ -11,5 +11,6 @@
 @implementation CCAnotherTest
 
 //And another comment
+//another 10:36
 
 @end
